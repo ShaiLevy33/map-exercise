@@ -1,0 +1,13 @@
+div {
+    border: 1px solid #000000;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+}
+button {
+	color: deeppink;
+    text-align: center;
+}
+.div-without-borders{
+    border: 0px solid #000000;
+}
